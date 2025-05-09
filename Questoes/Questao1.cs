@@ -19,7 +19,7 @@ namespace target_teste_tecnico
                 sum = sum+ k;
             }
 
-            Console.WriteLine($"O valor final da variável sum é: {sum}");
+            Console.WriteLine($"o valor final da variável sum é: {sum}");
         }
 
     }
