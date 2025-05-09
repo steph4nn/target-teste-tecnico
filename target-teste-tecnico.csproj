@@ -55,6 +55,7 @@
     <Compile Include="Questoes\Questao2.cs" />
     <Compile Include="Questoes\Questao3.cs" />
     <Compile Include="Questoes\Questao4.cs" />
+    <Compile Include="Questoes\Questao5.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
